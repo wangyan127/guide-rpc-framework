@@ -1,7 +1,7 @@
 # guide-rpc-framework
 
-> 最近被一些不友好的人"喷"了，简单写了一篇记录一下：[被喷了！聊聊我开源的RPC框架那些事](/docs/被喷了！聊聊我开源的RPC框架那些事.md)
->
+> 
+> 
 > [该 RPC 框架配套教程已经更新在我的星球，点击此链接了解详情。](https://t.zsxq.com/Ea6YVVn)
 
 中文|[English](./README-EN.md)
@@ -161,7 +161,7 @@ public class HelloServiceImpl implements HelloService {
         return result;
     }
 }
-	
+
 @Slf4j
 public class HelloServiceImpl2 implements HelloService {
 
@@ -275,5 +275,3 @@ System.out.println(hello);
 Guide 的星球正在更新《从零开始手把手教你实现一个简单的 RPC 框架》。扫描下方二维码关注“**JavaGuide**”后回复 “**星球**”即可。
 
 ![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
-
-
